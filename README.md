@@ -5,8 +5,8 @@ Librería de componentes Javascript ECMAScript 6, en el cual podrá aprovechar l
 
 ### Información básica
 Podrá ver la información básica en los siguientes idiomas:
-* [Español](https://bitbucket.org/js_code/full-s-library-ecmascript-6/src/master/README.md), 
-* [English](https://bitbucket.org/js_code/full-s-library-ecmascript-6/src/master/README/en.md)
+* [Español](https://github.com/JSCode-es/FullS/blob/master/README.md) 
+* [English](https://github.com/JSCode-es/FullS/blob/master/readme/en.md)
 
 
 ### Requisitos
